@@ -1,0 +1,21 @@
+*
+{
+    background-color: rgb(167, 130, 255);
+    margin-top: 150px;
+}
+
+h1
+{
+text-align: center;
+margin: auto;
+color: rgb(0, 100, 146);
+font-size: 80px;
+transition: 0.4s;
+}
+
+h1:hover
+{
+transition: 0.4s;
+color: rgb(117, 0, 108);
+font-size: 82px;
+}

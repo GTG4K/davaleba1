@@ -1,0 +1,36 @@
+*
+{
+    background-color: rgb(255, 136, 136);
+    margin-top: 150px;
+}
+h1
+{
+text-align: center;
+margin: auto;
+color: aquamarine;
+font-size: 80px;
+transition: 0.4s;
+}
+
+h1:hover
+{
+transition: 0.4s;
+color: rgb(56, 255, 189);
+font-size: 82px;
+}
+
+p
+{
+text-align: center;
+margin: auto;
+color: rgb(83, 83, 83);
+font-size: 24px;
+transition: 0.4s;    
+}
+
+p:hover
+{
+transition: 0.4s;
+color: rgb(134, 134, 134);
+font-size: 25px;
+}
